@@ -1,0 +1,33 @@
+:root {
+    --cor0: #C5EBD6;
+    --cor1: #83E1AD;
+    --cor2: #3DDC84;
+    --cor3: #2FA866;
+    --cor4: #1a5c37;
+    --cor5: #063D1E;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+} 
+
+footer {
+    background-color: #063D1E;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -20px;
+}
+
+footer p {
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: italic;
+}
+
+.sp {
+    color: #fff;
+    font-weight: bold;
+}
